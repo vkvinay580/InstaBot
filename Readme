@@ -1,0 +1,11 @@
+Code uses selenium, instagram api, python, web browser drivers for selenium 
+
+1.get python
+2.pip install instagrapi selenium
+3.geckodriver/chromedriver for selenium
+4.setup config file[Uname/PWD]
+5.run .py file
+
+pip install instagrapi selenium
+
+# This script is intended for educational purposes only. Do not use it for harmful, illegal, or unethical activities.
