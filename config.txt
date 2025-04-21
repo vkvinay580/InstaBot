@@ -1,0 +1,6 @@
+[Instagram]
+username = [Username Here]
+password = [Password Here]
+target_profile = royalchallengers.bengaluru
+num_posts = 5
+comment = I Love RCB!
